@@ -1,1 +1,1 @@
-# CommandLineChess
+This is a command line chess application which is programmed to interactively allow 2 players to execute chess moves (in accordance with rule validations).   The "chess board" is implemented by a map and the app makes use of OOP principals.
