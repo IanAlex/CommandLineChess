@@ -45,7 +45,7 @@ public class ChessMove {
 	
 	
 	
-	public ChessMove(Map board, Map capturedPiecesMap, ChessPieceColor currentColor) {
+	public ChessMove(Map<Point, ChessPiece> board, Map capturedPiecesMap, ChessPieceColor currentColor) {
 
 		this.board = board;
 		this.capturedPiecesMap = capturedPiecesMap;
